@@ -1,0 +1,18 @@
+->Start
+->Data Selection
+->Data Description- Getting insights from the data. What our data is actually try to convey.
+->Performing statistical and graphical analysis on data
+->Data Transformation and getting new attributes if required
+->Selection of a machine Learning Algorithm based on the above EDA on data.
+->Data Standardization and Normalization.
+->Creation of Train and Test data sets using optimum parameter.
+->Model training using algorithms.
+->Calculation of Model Accuracy :Both Training and test accuracies.
+->Hyperparameter tuning for better accuracy.
+->Saving the final model file.
+->Deployment of the model.
+->Production Deployment and Testing .
+->Finalizing the retraining approach
+->Logging and Monitoring
+->Dashboard for monitoring and logging Reports.
+->End

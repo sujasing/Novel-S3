@@ -1,0 +1,3 @@
+kaggle competitions download -c widsdatathon2022
+
+https://www.johnsoncontrols.com/insights/2016/buildings/in-the-news/evaluating-the-factors-that-impact-energy-use-intensity-in-high-performance-buildings
